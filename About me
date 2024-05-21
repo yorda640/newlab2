@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: darkgreen;
+        }
+        a {
+            color: navy;
+        }
+        img {
+            width: 100px;
+            height: auto;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Me</h1>
+        <p>My name is Yordanos and I am kind, friendly.</p>
+
+        <h2>My Classes This Quarter</h2>
+        <ul>
+            <li>CS 590 - SA</li>
+            <li>CS 472 - WAP</li>
+            <li>CS 544 - EA</li>
+            
+        </ul>
+
+        <h2>My Favorite Movies</h2>
+        
+        <h2>My Favorite Movies</h2>
+
+      <ol>
+         <li>Inception (<a href="https://www.imdb.com/title/tt1375666/">IMDB</a>)</li>
+         <li>The Grand Budapest Hotel (<a href="https://www.imdb.com/title/tt2278388/">IMDB</a>)</li>
+          <li>Mad Max: Fury Road (<a href="https://www.imdb.com/title/tt1392190/">IMDB</a>)</li>
+           
+        </ol>
+
+       
+        <h2>My Moods</h2>
+        <img src="download.jpeg" alt="Happy">
+        <img src="images.jpeg" alt="Sad">
+
+        <h2>Fun Facts About My Neighbors</h2>
+        <ul>
+            <li>Semhal: she always screams while she is on the phone.</li>
+            <li>Gelu: i love the way she dance</li>
+        </ul>
+    </div>
+</body>
+</html>
